@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rafaelzgz.github.io/sitemap.xml
